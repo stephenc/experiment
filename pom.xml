@@ -11,7 +11,7 @@
 
   <groupId>com.example.tmp</groupId>
   <artifactId>experiment</artifactId>
-  <version>4-SNAPSHOT</version>
+  <version>4</version>
   <packaging>pom</packaging>
 
   <name>Experiment</name>
@@ -19,7 +19,7 @@
   <scm>
     <connection>scm:git:ssh://git@github.com/stephenc/experiment.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/stephenc/experiment.git</developerConnection>
-    <tag>experiment-3</tag>
+    <tag>experiment-4</tag>
   </scm>
 
 </project>
