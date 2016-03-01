@@ -14,9 +14,7 @@
   <version>2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>CloudBees Jenkins Plugin Parent</name>
-  <description>The CloudBees Jenkins Plugins Parent Project</description>
-  <inceptionYear>2011</inceptionYear>
+  <name>Experiment</name>
 
   <scm>
     <connection>scm:git:ssh://git@github.com/stephenc/experiment.git</connection>
