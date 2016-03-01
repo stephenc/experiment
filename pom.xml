@@ -11,7 +11,7 @@
 
   <groupId>com.example.tmp</groupId>
   <artifactId>experiment</artifactId>
-  <version>1-SNAPSHOT</version>
+  <version>1</version>
   <packaging>pom</packaging>
 
   <name>CloudBees Jenkins Plugin Parent</name>
@@ -21,7 +21,7 @@
   <scm>
     <connection>scm:git:ssh://git@github.com/stephenc/experiment.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/stephenc/experiment.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>experiment-1</tag>
   </scm>
 
 </project>
